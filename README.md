@@ -32,10 +32,10 @@ Our vizualizations will tell us:
 ### Who Uses the Bikes the Most: Checkout Times by Gender
 ![Who uses the bikes the most.png](https://github.com/LucyPill/bikesharing/blob/main/Images/Who%20uses%20the%20bikes%20the%20most.png)
 
-### Hours of the Day that Bikes Are Used the Most:
+### Hours of the Day that Bikes Are Used the Most: Trips by Weekday Per Hour
 ![Hours of heavy use.png](https://github.com/LucyPill/bikesharing/blob/main/Images/Hours%20of%20heavy%20use.png)
 
-### Who Is Riding the Bikes the Most and When?
+### Who Is Riding the Bikes the Most and When? Trips by Gender (Weekday per Hour) and User Trips by Gender by Weekday
 ![who and when is riding the most.png](https://github.com/LucyPill/bikesharing/blob/main/Images/who%20and%20when%20is%20riding%20the%20most.png)
 
 ### The Top 10 Bikes Used the Most:
