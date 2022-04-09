@@ -10,3 +10,4 @@ Our vizualizations will tell us:
 * The top 10 bikes used the most 
 * Trips by gender by hour, and trips by user type and gender by day of the week.
 
+[NYC_Citibike_Challenge.ipynb](https://github.com/LucyPill/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)
