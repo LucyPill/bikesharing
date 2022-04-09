@@ -9,3 +9,4 @@ Our vizualizations will tell us:
 * Time when bikes are use the most, 
 * The top 10 bikes used the most 
 * Trips by gender by hour, and trips by user type and gender by day of the week.
+
