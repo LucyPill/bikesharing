@@ -9,8 +9,7 @@ Our vizualizations will tell us:
 * Time when bikes are use the most, 
 * The top 10 bikes used the most 
 * Trips by gender by hour, and trips by user type and gender by day of the week.
-
-## Results:
+## Deliverables:
 ### Deliverable 1: 
 * The data in the "tripduration" column is converted to a datetime datatype and has the correct time format
 * The DataFrame is exported as a new file without the index column (see link below)
@@ -25,3 +24,7 @@ Our vizualizations will tell us:
 * Use the five visualizations that you created in Deliverable 2
 * Use at least two visualizations that you created in this module
 * [Challenge: NYC Bike Share Analysis](https://public.tableau.com/app/profile/lucy.e.pill/viz/ChallengeNYCBikeShareAnalysis/NYCStory)
+
+## Results: 
+* Total Number of Trips and Customer Types:
+![Total_trips_customer_types.png](https://github.com/LucyPill/bikesharing/blob/main/Images/Total_trips_customer_types.png)
