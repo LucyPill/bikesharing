@@ -24,3 +24,4 @@ Our vizualizations will tell us:
 ### Deliverable 3: Create a Story and Report for the Final Presentation
 * Use the five visualizations that you created in Deliverable 2
 * Use at least two visualizations that you created in this module
+* [Challenge: NYC Bike Share Analysis](https://public.tableau.com/app/profile/lucy.e.pill/viz/ChallengeNYCBikeShareAnalysis/NYCStory)
