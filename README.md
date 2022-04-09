@@ -26,5 +26,14 @@ Our vizualizations will tell us:
 * [Challenge: NYC Bike Share Analysis](https://public.tableau.com/app/profile/lucy.e.pill/viz/ChallengeNYCBikeShareAnalysis/NYCStory)
 
 ## Results: 
-* Total Number of Trips and Customer Types:
+### Total Number of Trips and Customer Types:
 ![Total_trips_customer_types.png](https://github.com/LucyPill/bikesharing/blob/main/Images/Total_trips_customer_types.png)
+
+### Who Uses the Bikes the Most:
+![Who uses the bikes the most.png](https://github.com/LucyPill/bikesharing/blob/main/Images/Who%20uses%20the%20bikes%20the%20most.png)
+
+### Hours of the Day that Bikes Are Used the Most:
+![Hours of heavy use.png](https://github.com/LucyPill/bikesharing/blob/main/Images/Hours%20of%20heavy%20use.png)
+
+### Who Is Riding the Bikes the Most and When?
+![who and when is riding the most.png](https://github.com/LucyPill/bikesharing/blob/main/Images/who%20and%20when%20is%20riding%20the%20most.png)
