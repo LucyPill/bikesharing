@@ -37,3 +37,6 @@ Our vizualizations will tell us:
 
 ### Who Is Riding the Bikes the Most and When?
 ![who and when is riding the most.png](https://github.com/LucyPill/bikesharing/blob/main/Images/who%20and%20when%20is%20riding%20the%20most.png)
+
+### The Top 10 Bikes Used the Most:
+![10 bikes used the most.png](https://github.com/LucyPill/bikesharing/blob/main/Images/10%20bikes%20used%20the%20most.png)
