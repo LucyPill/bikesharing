@@ -40,3 +40,6 @@ Our vizualizations will tell us:
 
 ### The Top 10 Bikes Used the Most:
 ![10 bikes used the most.png](https://github.com/LucyPill/bikesharing/blob/main/Images/10%20bikes%20used%20the%20most.png)
+
+## Conclusion:
+Our analysis clearly shows that most riders are male subscriber and they ride mostly during work-commuter hours. In order, to open a  busines in Des Moines, Iowa using the NYC bikesharing a more rigorous analysis needs to be perfomed. This analysis is good, so  at least we can get an idea of the type of subscribers, the peak hours when more bikes are needed the most and what month of the year bikes are most heavely used. 
