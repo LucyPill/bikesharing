@@ -10,4 +10,17 @@ Our vizualizations will tell us:
 * The top 10 bikes used the most 
 * Trips by gender by hour, and trips by user type and gender by day of the week.
 
-[NYC_Citibike_Challenge.ipynb](https://github.com/LucyPill/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)
+## Results:
+### Deliverable 1: 
+* The data in the "tripduration" column is converted to a datetime datatype and has the correct time format
+* The DataFrame is exported as a new file without the index column (see link below)
+* [NYC_Citibike_Challenge.ipynb](https://github.com/LucyPill/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)
+
+### Deliverable 2: Create Vizualizations for the trip Analysis
+* How long bikes are checked out for all riders and genders
+* How many trips are taken by the hour for each day of the week, for all riders and genders
+* A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender
+
+### Deliverable 3: Create a Story and Report for the Final Presentation
+* Use the five visualizations that you created in Deliverable 2
+* Use at least two visualizations that you created in this module
